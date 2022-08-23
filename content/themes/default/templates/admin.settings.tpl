@@ -241,7 +241,7 @@
               <div class="col-md-9">
                 <textarea class="form-control" name="system_keywords" rows="3">{$system['system_keywords']}</textarea>
                 <span class="form-text">
-                  {__("Example: social, sngine, social site")}
+                  {__("Example: social, spark, social site, community, open-source, online chat, pictures")}
                 </span>
               </div>
             </div>

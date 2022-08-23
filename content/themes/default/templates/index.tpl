@@ -14,11 +14,10 @@
       </p>
     </div>
     <div class="row">
-      <div class="col-md-6 col-lg-7">
-        <img style="width: 100%; max-height: 500px;" class="d-none d-md-block" src="{$system['system_url']}/content/themes/{$system['theme']}/images/home/drawkit-nature-man-colour.svg">
+      <div class="col-md-3 col-lg-3">
       </div>
 
-      <div class="col-md-6 col-lg-5">
+      <div class="col-md-6 col-lg-6">
         {include file='_sign_form.tpl' do="in"}
         <div class="text-center">
           {if $system['play_store_badge_enabled']}
