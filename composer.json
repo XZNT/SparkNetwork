@@ -1,0 +1,25 @@
+{
+ "require": {
+  "securionpay/securionpay-php": "^2.4",
+  "embed/embed": "^3.4.17",
+  "smarty/smarty": "^4.1",
+  "gettext/gettext": "^4.8.6",
+  "ezyang/htmlpurifier": "^4.14",
+  "mobiledetect/mobiledetectlib": "^2.8",
+  "hybridauth/hybridauth": "^3.8",
+  "google/recaptcha": "^1.2",
+  "phpmailer/phpmailer": "^6.6",
+  "sonata-project/google-authenticator": "^2.3",
+  "fzaninotto/faker": "^1.9",
+  "twilio/sdk": "^6.37",
+  "taylanunutmaz/agora-token-builder": "^1.1",
+  "claviska/simpleimage": "^3.6",
+  "stripe/stripe-php": "^7.128",
+  "sociallydev/spaces-api": "^2.0.1",
+  "aws/aws-sdk-php": "^3.222",
+  "paypal/rest-api-sdk-php": "^1.14",
+  "nicolab/php-ftp-client": "^2.0",
+  "google/cloud-storage": "^1.26",
+  "2checkout/2checkout-php": "^0.4.0"
+ }
+}

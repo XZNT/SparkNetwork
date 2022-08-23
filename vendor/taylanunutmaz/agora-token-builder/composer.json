@@ -1,0 +1,22 @@
+{
+    "name": "taylanunutmaz/agora-token-builder",
+    "description": "Token builder for agora.io",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Taylan Unutmaz",
+            "email": "taylanunutmaz@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "ext-json": ">=1.0"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "TaylanUnutmaz\\AgoraTokenBuilder\\": "src"
+        }
+    }
+}

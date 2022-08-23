@@ -1,0 +1,8 @@
+{__("Hi")} {$name},
+
+{__("To complete the activation process, please follow this link")}:
+{$system['system_url']}/activation/{$email_verification_code}
+
+{__("Welcome to")} {__($system['system_title'])}
+
+{__($system['system_title'])} {__("Team")}

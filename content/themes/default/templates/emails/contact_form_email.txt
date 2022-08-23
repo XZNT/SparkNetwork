@@ -1,0 +1,13 @@
+{__("Hi")},
+
+{__("You have a new email message")}
+
+{__("Email Subject")}: {$_POST['subject']}
+
+{__("Sender Name")}: {$_POST['name']}
+
+{__("Sender Email")}: {$_POST['email']}
+
+{__("Email Message")}: {$_POST['message']}
+
+{__($system['system_title'])} {__("Team")}

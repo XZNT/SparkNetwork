@@ -1,0 +1,7 @@
+{__("Hi")} {$user['user_name']},
+
+{__("To complete the sign-in process, please use the following 6-digit key")}
+
+{__("Two-factor authentication key")}: {$two_factor_key}
+
+{__($system['system_title'])} {__("Team")}

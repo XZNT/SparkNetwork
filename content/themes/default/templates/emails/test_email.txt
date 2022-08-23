@@ -1,0 +1,5 @@
+{__("Hi")},
+
+{__("This is a test email")}
+
+{__($system['system_title'])} {__("Team")}

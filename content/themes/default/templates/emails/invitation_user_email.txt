@@ -1,0 +1,8 @@
+{__("Hi")},
+
+{__("Your friend")} {$user->_data['name']} {__("invite you to our website")} {__($system['system_title'])}
+
+{__("To complete the registration process, please follow this link")}:
+{$system['system_url']}/signup?ref={$user->_data['user_name']}&invitation_code={$code}
+
+{__($system['system_title'])} {__("Team")}
