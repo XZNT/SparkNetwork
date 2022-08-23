@@ -30,22 +30,18 @@ allow_url_fopen
 
 config.php (provided in the script upon installation)
 
-------------
-
 How to modify system settings ⚙️?
+------------
 
 After the installation you are the admin user
 
 Access the admin panel and modify system settings to your will
 
-------------
-
 Project Roadmap :
+------------
 
 Minify the existing code❌
 
 Implement service workers for less system load❌
 
 Implement advanced caching❌
-
-------------
