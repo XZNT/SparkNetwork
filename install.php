@@ -3990,7 +3990,7 @@ INSERT INTO `system_options` (`option_id`, `option_name`, `option_value`) VALUES
 (2, 'system_live', '1'),
 (3, 'system_message', 'We will Back Soon'),
 (4, 'system_title', 'Spark'),
-(5, 'system_description', 'Share your memories, connect with others, make new friends'),
+(5, 'system_description', 'Your community, your rules'),
 (6, 'system_keywords', ''),
 (7, 'system_email', ''),
 (8, 'system_datetime_format', 'd/m/Y H:i'),
