@@ -323,7 +323,7 @@
     <!-- Google Geocomplete -->
 
     <!-- Noty Notifications -->
-	/* Coded by XZNT */
+	/* Coded by <a href="https://yruz.one/XZNT">XZNT</a> */
     {if $system['noty_notifications_enabled']}
       <script src="{$system['system_url']}/includes/assets/js/plugins/noty/noty.min.js"></script>
       <link rel="stylesheet" type='text/css' href="{$system['system_url']}/includes/assets/js/plugins/noty/noty.css">
