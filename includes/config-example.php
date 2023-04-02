@@ -25,7 +25,7 @@ define('DEFAULT_LOCALE', 'en_us');
 
 
 /**
- * For developers: Sngine debugging mode.
+ * For developers: SPARK debugging mode.
  *
  * Change this to true to enable the display of notices during development.
  * It is strongly recommended that plugin and theme developers use debug
